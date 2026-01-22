@@ -1,10 +1,10 @@
 {
-  "name": "node-red-contrib-crypto-js",
+  "name": "node-red-contrib-crypto-js-dyn",
   "version": "0.1.1",
   "description": "Node-RED nodes using CryptoJS to encrypt and decrypt messages",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baumblatt/node-red-contrib-crypto-js.git"
+    "url": "git+https://github.com/Lindemanske/node-red-contrib-crypto-js-dyn.git"
   },
   "scripts": {
     "test": "node-red"
